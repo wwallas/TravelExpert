@@ -1,0 +1,19 @@
+D:\TechCarrier\c#\WindowsFormExercise\TestPackage\TestPackage\bin\Debug\TestPackage.exe.config
+D:\TechCarrier\c#\WindowsFormExercise\TestPackage\TestPackage\bin\Debug\TestPackage.exe
+D:\TechCarrier\c#\WindowsFormExercise\TestPackage\TestPackage\bin\Debug\TestPackage.pdb
+D:\TechCarrier\c#\WindowsFormExercise\TestPackage\TestPackage\obj\Debug\TestPackage.Properties.Resources.resources
+D:\TechCarrier\c#\WindowsFormExercise\TestPackage\TestPackage\obj\Debug\TestPackage.csproj.GenerateResource.cache
+D:\TechCarrier\c#\WindowsFormExercise\TestPackage\TestPackage\obj\Debug\TestPackage.exe
+D:\TechCarrier\c#\WindowsFormExercise\TestPackage\TestPackage\obj\Debug\TestPackage.pdb
+C:\TechCareer\C# net webdevelopment\TestPackage\TestPackage\obj\Debug\TestPackage.csprojAssemblyReference.cache
+C:\TechCareer\C# net webdevelopment\TestPackage\TestPackage\obj\Debug\TestPackage.Properties.Resources.resources
+C:\TechCareer\C# net webdevelopment\TestPackage\TestPackage\obj\Debug\TestPackage.csproj.GenerateResource.cache
+C:\TechCareer\C# net webdevelopment\TestPackage\TestPackage\obj\Debug\TestPackage.csproj.CoreCompileInputs.cache
+C:\TechCareer\C# net webdevelopment\TestPackage\TestPackage\obj\Debug\TestPackage.exe
+C:\TechCareer\C# net webdevelopment\TestPackage\TestPackage\obj\Debug\TestPackage.pdb
+C:\TechCareer\C# net webdevelopment\TestPackage\TestPackage\bin\Debug\TestPackage.exe.config
+C:\TechCareer\C# net webdevelopment\TestPackage\TestPackage\bin\Debug\TestPackage.exe
+C:\TechCareer\C# net webdevelopment\TestPackage\TestPackage\bin\Debug\TestPackage.pdb
+D:\TechCarrier\c#\WindowsFormExercise\TestPackage\TestPackage\obj\Debug\TestPackage.frmPack.resources
+D:\TechCarrier\c#\WindowsFormExercise\TestPackage\TestPackage\obj\Debug\TestPackage.csprojAssemblyReference.cache
+C:\TechCareer\C# net webdevelopment\TestPackage\TestPackage\obj\Debug\TestPackage.frmPack.resources
